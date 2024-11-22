@@ -5,9 +5,9 @@ using System.Text;
 
 namespace UsageCollections
 {
-    public class Employé
-    {
-        public string Nom { get; set; }
-        public int Age { get; set; }
-    }
+	public class Employé
+	{
+		public string Nom { get; set; }
+		public int Age { get; set; }
+	}
 }
