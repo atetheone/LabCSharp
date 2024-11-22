@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversionHexadecimale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070b01c5b6aa992afaa8c58f3594758c54e1a36f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d8e8d6eae9d9b0b21248547464c00c2d221016")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversionHexadecimale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversionHexadecimale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
