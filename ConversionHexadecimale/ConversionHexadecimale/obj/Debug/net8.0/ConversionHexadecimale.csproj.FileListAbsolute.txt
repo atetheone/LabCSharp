@@ -1,0 +1,15 @@
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.exe
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.deps.json
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.dll
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.pdb
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.sourcelink.json
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.dll
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\refint\ConversionHexadecimale.dll
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.pdb
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.genruntimeconfig.cache
+C:\Users\LENOVO\RiderProjects\LabCSharp\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ref\ConversionHexadecimale.dll
